@@ -298,7 +298,7 @@ def get_trip_details() -> Dict[str, Any]:
     budget = input("💰 What's your total budget? (e.g., $3000, €2500): ").strip()
     
     # Get travel dates
-    dates = input("📅 When are you traveling? (e.g., March 15-22, 2024): ").strip()
+    dates = input("📅 When are you traveling? (e.g., November 21-23, 2025): ").strip()
     
     # Get interests
     print("\n🎯 What are your interests? (Enter comma-separated interests)")
